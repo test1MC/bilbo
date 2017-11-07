@@ -1,0 +1,330 @@
+/*<meta sourceDocument="C:\Users\dspencer\Desktop\25470Fabrication Configuration Quickstart Guide.docx" />*/
+
+p
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+ol
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+ul
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+li
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+td
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+	vertical-align: top;
+}
+
+p.HeaderLeftSide
+{
+	font-size: 12pt;
+	border-bottom-style: solid;
+	border-bottom-width: 2pt;
+	border-bottom-color: black;
+	font-family: 'Times New Roman';
+}
+
+p.PlaceholderText
+{
+	color: #808080;
+}
+
+p.Footer
+{
+	font-size: 12pt;
+	font-family: 'Times New Roman';
+}
+
+h1.Heading1
+{
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	page-break-before: always;
+	margin-bottom: 6pt;
+	mc-heading-level: 1;
+	font-family: 'Humnst777 BT';
+	font-weight: bold;
+	font-size: 14pt;
+}
+
+p.TOCLinks
+{
+	font-size: 16pt;
+	font-family: 'Times New Roman';
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+a.Hyperlink
+{
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+span.Hyperlink
+{
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+li.ListParagraph
+{
+	font-size: 12pt;
+	font-family: 'Times New Roman';
+}
+
+p.p_1
+{
+	text-align: center;
+	font-weight: bold;
+	font-size: 16pt;
+}
+
+td.td_1
+{
+	background-color: #D9D9D9;
+	border-top-style: solid;
+	border-top-width: 1pt;
+	border-top-color: #808080;
+	border-left-style: solid;
+	border-left-width: 1pt;
+	border-left-color: #808080;
+	border-right-style: solid;
+	border-right-width: 1pt;
+	border-right-color: #808080;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: #808080;
+}
+
+td.td_2
+{
+	background-color: #D9D9D9;
+	border-top-style: solid;
+	border-top-width: 1pt;
+	border-top-color: #808080;
+	border-right-style: solid;
+	border-right-width: 1pt;
+	border-right-color: #808080;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: #808080;
+}
+
+span.span_1
+{
+	font-size: 11pt;
+}
+
+td.td_3
+{
+	background-color: #auto;
+	border-left-style: solid;
+	border-left-width: 1pt;
+	border-left-color: #808080;
+	border-right-style: solid;
+	border-right-width: 1pt;
+	border-right-color: #808080;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: #808080;
+}
+
+td.td_4
+{
+	background-color: #auto;
+	border-right-style: solid;
+	border-right-width: 1pt;
+	border-right-color: #808080;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: #808080;
+}
+
+p.p_2
+{
+	font-size: 11pt;
+}
+
+table.table_1
+{
+	border-collapse: collapse;
+}
+
+img.img_1
+{
+	visibility: visible;
+	mso-wrap-style: square;
+}
+
+ol.ol_1
+{
+	list-style-type: decimal;
+	margin-left: 36pt;
+}
+
+td.td_5
+{
+	background-color: #D9D9D9;
+	border-top-style: solid;
+	border-top-width: 1pt;
+	border-top-color: black;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: black;
+}
+
+td.td_6
+{
+	background-color: #FFFFFF;
+	border-top-style: solid;
+	border-top-width: 1pt;
+	border-top-color: black;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: black;
+}
+
+td.td_7
+{
+	background-color: #D9D9D9;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: black;
+}
+
+td.td_8
+{
+	background-color: #FFFFFF;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: black;
+}
+
+img.img_2
+{
+	z-index: 2;
+	visibility: visible;
+	mso-wrap-style: square;
+	mso-wrap-distance-left: 9pt;
+	mso-wrap-distance-top: 0;
+	mso-wrap-distance-right: 9pt;
+	mso-wrap-distance-bottom: 0;
+	mso-position-horizontal: absolute;
+	mso-position-horizontal-relative: text;
+	mso-position-vertical: absolute;
+	mso-position-vertical-relative: text;
+	margin-left: 1.5pt;
+}
+
+img.img_3
+{
+	visibility: visible;
+	mso-wrap-style: square;
+	border-top-style: solid;
+	border-top-width: 1pt;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-left-style: solid;
+	border-left-width: 1pt;
+	border-right-style: solid;
+	border-right-width: 1pt;
+}
+
+li.ListParagraph_1
+{
+	font-size: 12pt;
+	font-family: 'Times New Roman';
+	margin-left: 0pt;
+}
+
+img.img_4
+{
+	z-index: 1;
+	visibility: visible;
+	mso-wrap-style: square;
+	mso-wrap-distance-left: 9pt;
+	mso-wrap-distance-top: 0;
+	mso-wrap-distance-right: 9pt;
+	mso-wrap-distance-bottom: 0;
+	mso-position-horizontal: absolute;
+	mso-position-horizontal-relative: text;
+	mso-position-vertical: absolute;
+	mso-position-vertical-relative: text;
+	margin-left: 1.45pt;
+}
+
+span.span_2
+{
+	font-weight: bold;
+}
+
+li.ListParagraph_2
+{
+	font-size: 12pt;
+	font-family: 'Times New Roman';
+	list-style-type: disc;
+}
+
+ul.ul_1
+{
+	list-style-type: disc;
+	margin-left: 18pt;
+}
+
+ul.ul_2
+{
+	list-style-type: disc;
+	margin-left: 36pt;
+}
+
+p.PlaceholderText_1
+{
+	color: #808080;
+	border-bottom-style: solid;
+	border-bottom-width: 2pt;
+	border-bottom-color: black;
+}
+
+p.Footer_1
+{
+	font-size: 12pt;
+	font-family: 'Times New Roman';
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: black;
+}
+
+p.Footer_2
+{
+	font-size: 12pt;
+	font-family: 'Times New Roman';
+	margin-left: 5pt;
+	margin-right: 5pt;
+	text-align: center;
+}
+
